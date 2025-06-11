@@ -2,17 +2,17 @@
 DATA SOURCE - https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
 Explanation of what each column represents in a heart disease dataset:
-Age - Patient's age in years. Older age is generally associated with higher cardiovascular risk due to arterial aging and accumulated damage over time.
-Sex - Biological sex (typically Male/Female). Males generally have higher risk of heart disease at younger ages, though this gap narrows after menopause in females.
-ChestPainType - Classification of chest pain symptoms, usually categorized as typical angina, atypical angina, non-anginal pain, or asymptomatic. Typical angina (chest pain triggered by exertion and relieved by rest) is most strongly associated with coronary artery disease.
-RestingBP - Resting blood pressure in mmHg. Higher values indicate hypertension, which damages arteries and increases heart disease risk. Normal is typically <120/80 mmHg.
-Cholesterol - Serum cholesterol level in mg/dL. Higher levels contribute to atherosclerotic plaque formation in arteries. Total cholesterol >240 mg/dL is considered high risk.
-FastingBS - Fasting blood sugar level, often as a binary indicator (1 if >120 mg/dL, 0 if ≤120 mg/dL). Elevated glucose levels indicate diabetes or prediabetes, major risk factors for cardiovascular disease.
-RestingECG - Resting electrocardiogram results showing heart rhythm and electrical activity. Can detect arrhythmias, previous heart attacks, or left ventricular hypertrophy.
-MaxHR - Maximum heart rate achieved during exercise testing. Lower maximum heart rates may indicate poor cardiovascular fitness or underlying heart problems.
-ExerciseAngina - Whether chest pain occurs during exercise (Yes/No). Exercise-induced angina strongly suggests coronary artery disease as increased oxygen demand reveals inadequate blood supply.
-Oldpeak - ST depression induced by exercise relative to rest on the ECG. Measured in millimeters, this indicates how much the ST segment drops during exercise, suggesting inadequate blood flow to heart muscle.
-ST_Slope - The slope of the peak exercise ST segment on ECG, typically classified as upsloping, flat, or downsloping. Downsloping or flat ST segments during exercise are more concerning for coronary artery disease than upsloping patterns.
+1. Age - Patient's age in years. Older age is generally associated with higher cardiovascular risk due to arterial aging and accumulated damage over time.
+2. Sex - Biological sex (typically Male/Female). Males generally have higher risk of heart disease at younger ages, though this gap narrows after menopause in females.
+3. ChestPainType - Classification of chest pain symptoms, usually categorized as typical angina, atypical angina, non-anginal pain, or asymptomatic. Typical angina (chest pain triggered by exertion and relieved by rest) is most strongly associated with coronary artery disease.
+4. RestingBP - Resting blood pressure in mmHg. Higher values indicate hypertension, which damages arteries and increases heart disease risk. Normal is typically <120/80 mmHg.
+5. Cholesterol - Serum cholesterol level in mg/dL. Higher levels contribute to atherosclerotic plaque formation in arteries. Total cholesterol >240 mg/dL is considered high risk.
+6. FastingBS - Fasting blood sugar level, often as a binary indicator (1 if >120 mg/dL, 0 if ≤120 mg/dL). Elevated glucose levels indicate diabetes or prediabetes, major risk factors for cardiovascular disease.
+7. RestingECG - Resting electrocardiogram results showing heart rhythm and electrical activity. Can detect arrhythmias, previous heart attacks, or left ventricular hypertrophy.
+8. MaxHR - Maximum heart rate achieved during exercise testing. Lower maximum heart rates may indicate poor cardiovascular fitness or underlying heart problems.
+9. ExerciseAngina - Whether chest pain occurs during exercise (Yes/No). Exercise-induced angina strongly suggests coronary artery disease as increased oxygen demand reveals inadequate blood supply.
+10 Oldpeak - ST depression induced by exercise relative to rest on the ECG. Measured in millimeters, this indicates how much the ST segment drops during exercise, suggesting inadequate blood flow to heart muscle.
+11. ST_Slope - The slope of the peak exercise ST segment on ECG, typically classified as upsloping, flat, or downsloping. Downsloping or flat ST segments during exercise are more concerning for coronary artery disease than upsloping patterns.
 
 These variables collectively provide a comprehensive cardiovascular risk profile, combining demographic factors, symptoms, vital signs, lab values, and cardiac function tests commonly used in heart disease diagnosis and risk stratification.
 
