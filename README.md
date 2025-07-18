@@ -28,19 +28,19 @@ The project is structured around the CRISP-DM framework, covering the following 
    a. Invalid zero values in RestingBP and Cholesterol were identified and imputed with the median.
    b. Features were separated into numerical and categorical types for appropriate processing.
    c. A ColumnTransformer pipeline was used for feature engineering:
-        > One-Hot Encoding for categorical features.
-        > Standard Scaling for numerical features.
-3. **Exploratory Data Analysis (EDA):**
+      > One-Hot Encoding for categorical features.
+      > Standard Scaling for numerical features.
+4. **Exploratory Data Analysis (EDA):**
    a. Visualizations were created to understand the distribution of features and their relationship with the target variable (HeartDisease).
    b. A correlation heatmap was generated to analyze relationships between numerical features.
-4. **Model Training:**
+5. **Model Training:**
    a. Four different classification models were trained and compared:
-        > Logistic Regression
-        > Random Forest Classifier
-        > Bagging Classifier
-        > XGBoost Classifier
+      > Logistic Regression
+      > Random Forest Classifier
+      > Bagging Classifier
+      > > XGBoost Classifier
    b. GridSearchCV was used for hyperparameter tuning with 5-fold cross-validation, optimizing for recall to prioritize the correct identification of patients with heart disease.
-5. **Model Evaluation:**
+7. **Model Evaluation:**
    a. Models were evaluated on a held-out test set using key metrics: Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
    b. A comparison table and a combined ROC curve plot were generated to visualize and select the best-performing model.
 
