@@ -15,7 +15,7 @@ This is why its an important question to answer. If we can have abundance of cau
 7. **RestingECG** - Resting electrocardiogram results showing heart rhythm and electrical activity. Can detect arrhythmias, previous heart attacks, or left ventricular hypertrophy.
 8. **MaxHR** - Maximum heart rate achieved during exercise testing. Lower maximum heart rates may indicate poor cardiovascular fitness or underlying heart problems.
 9. **ExerciseAngina** - Whether chest pain occurs during exercise (Yes/No). Exercise-induced angina strongly suggests coronary artery disease as increased oxygen demand reveals inadequate blood supply.
-10 **Oldpeak** - ST depression induced by exercise relative to rest on the ECG. Measured in millimeters, this indicates how much the ST segment drops during exercise, suggesting inadequate blood flow to heart muscle.
+10. **Oldpeak** - ST depression induced by exercise relative to rest on the ECG. Measured in millimeters, this indicates how much the ST segment drops during exercise, suggesting inadequate blood flow to heart muscle.
 11. **ST_Slope** - The slope of the peak exercise ST segment on ECG, typically classified as upsloping, flat, or downsloping. Downsloping or flat ST segments during exercise are more concerning for coronary artery disease than upsloping patterns.
 
 These variables collectively provide a comprehensive cardiovascular risk profile, combining demographic factors, symptoms, vital signs, lab values, and cardiac function tests commonly used in heart disease diagnosis and risk stratification.
