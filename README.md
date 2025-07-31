@@ -12,8 +12,8 @@ In 2021, heart disease was the leading cause of death in the U.S., responsible f
 
 ## Data
 
-**Data Source:** [Kaggle - Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
-**Notebook:** [Jupyter Notebook following the CRISP-DM methodology](https://github.com/karanmohan-git/AIML-Capstone-Project-Heart-Disease-Prediction/blob/main/HeartDisease_07182025_final.ipynb)
+**Data Source:** [Kaggle - Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) <br>
+**Notebook:** [Jupyter Notebook following the CRISP-DM methodology](https://github.com/karanmohan-git/AIML-Capstone-Project-Heart-Disease-Prediction/blob/main/HeartDisease_07182025_final.ipynb) <br>
 **Project Report:** [Detailed Report in PDF format](https://github.com/karanmohan-git/AIML-Capstone-Project-Heart-Disease-Prediction/blob/main/Capstone%20Project_Final%20Report_KaranKauchur.pdf)
 
 ### Column Descriptions
