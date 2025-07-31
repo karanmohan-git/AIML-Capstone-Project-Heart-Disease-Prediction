@@ -12,7 +12,9 @@ In 2021, heart disease was the leading cause of death in the U.S., responsible f
 
 ## Data
 
-**Source:** [Kaggle - Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+**Data Source:** [Kaggle - Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+**Notebook:** [Jupyter Notebook following the CRISP-DM methodology](https://github.com/karanmohan-git/AIML-Capstone-Project-Heart-Disease-Prediction/blob/main/HeartDisease_07182025_final.ipynb)
+**Project Report:** [Detailed Report in PDF format](https://github.com/karanmohan-git/AIML-Capstone-Project-Heart-Disease-Prediction/blob/main/Capstone%20Project_Final%20Report_KaranKauchur.pdf
 
 ### Column Descriptions
 
@@ -86,8 +88,6 @@ In 2021, heart disease was the leading cause of death in the U.S., responsible f
 ## Conclusion
 
 Given the dataset and the models used, the **Random Forest Classifier** is best suited for this use case, primarily due to its high recall, which is crucial for correctly identifying patients with heart disease.
-
-Project Report : https://github.com/karanmohan-git/AIML-Capstone-Project-Heart-Disease-Prediction/blob/main/Capstone%20Project_Final%20Report_KaranKauchur.pdf
 
 ---
 
