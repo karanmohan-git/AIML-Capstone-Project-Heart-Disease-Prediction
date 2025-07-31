@@ -87,4 +87,7 @@ In 2021, heart disease was the leading cause of death in the U.S., responsible f
 
 Given the dataset and the models used, the **Random Forest Classifier** is best suited for this use case, primarily due to its high recall, which is crucial for correctly identifying patients with heart disease.
 
+Project Report : https://github.com/karanmohan-git/AIML-Capstone-Project-Heart-Disease-Prediction/blob/main/Capstone%20Project_Final%20Report_KaranKauchur.pdf
+
 ---
+
